@@ -1,0 +1,5 @@
+credits to darkaetherr for material scanner
+
+in ce look for hex DEADBEEFDEADBEEF 8 bytes
+
+use luascipt to output json
